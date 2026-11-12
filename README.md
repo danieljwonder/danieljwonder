@@ -7,6 +7,7 @@ I build WordPress tools and run self-hosted AI agents.
 ## Start here
 
 - **[BurrowSync](https://burrowsync.com)**: Two-way sync between WordPress and [X](https://github.com/danieljwonder/burrowsync-for-x), [Farcaster](https://github.com/danieljwonder/burrowsync-for-farcaster) and [Nostr](https://github.com/danieljwonder/burrowsync-for-nostr). Free, GPL, public beta.
+- **[nak bunker for Umbrel](https://github.com/danieljwonder/nak-bunker-umbrel)**: A self-hosted Nostr remote signer (NIP-46) for Umbrel. Packages [nak](https://github.com/fiatjaf/nak) unmodified, with web unlock and encrypted DM reminders when it's locked. Install from the [Nostroid app store for Umbrel](https://github.com/danieljwonder/nostroid-umbrel-apps). MIT.
 - **[BitMate Author Donations](https://github.com/danieljwonder/bitmate-author-donations)**: Cryptocurrency donations for WordPress authors. Block, shortcode and widget support. [Available on WordPress.org](https://wordpress.org/plugins/bitmate-author-donations/). GPL.
 - **[WP Manager](https://github.com/danieljwonder/wp-manager)**: WordPress updates, health checks and content editing from Hermes Agent. MIT.
 - **[Wonder Burrow](https://github.com/danieljwonder/wonder-burrow)**: An Ollie child theme with a combined archive for posts and notes. GPL.
