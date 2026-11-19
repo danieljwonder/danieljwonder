@@ -2,11 +2,12 @@
 
 Marketer by day, longtime developer. New Zealand.
 
-I build WordPress tools and run self-hosted AI agents.
+I build WordPress and Nostr publishing tools and run self-hosted AI agents.
 
 ## Start here
 
 - **[BurrowSync](https://burrowsync.com)**: Two-way sync between WordPress and [X](https://github.com/danieljwonder/burrowsync-for-x), [Farcaster](https://github.com/danieljwonder/burrowsync-for-farcaster) and [Nostr](https://github.com/danieljwonder/burrowsync-for-nostr). Free, GPL, public beta.
+- **[Nostroid](https://nostroid.com)**: Your Nostr key is the CMS. [Nostroid Static](https://github.com/danieljwonder/nostroid-static) turns your notes and articles into a website that never needs rebuilding, and [Nostroid Relay](https://github.com/danieljwonder/nostroid-static/tree/main/relay) is an owner-only relay on Cloudflare. MIT.
 - **[nak bunker for Umbrel](https://github.com/danieljwonder/nak-bunker-umbrel)**: A self-hosted Nostr remote signer (NIP-46) for Umbrel. Packages [nak](https://github.com/fiatjaf/nak) unmodified, with web unlock and encrypted DM reminders when it's locked. Install from the [Nostroid app store for Umbrel](https://github.com/danieljwonder/nostroid-umbrel-apps). MIT.
 - **[BitMate Author Donations](https://github.com/danieljwonder/bitmate-author-donations)**: Cryptocurrency donations for WordPress authors. Block, shortcode and widget support. [Available on WordPress.org](https://wordpress.org/plugins/bitmate-author-donations/). GPL.
 - **[WP Manager](https://github.com/danieljwonder/wp-manager)**: WordPress updates, health checks and content editing from Hermes Agent. MIT.
